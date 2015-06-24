@@ -2,6 +2,8 @@
 A hub of information for developers to get audio engine related info and open source implementation code.
 <br>
 http://danikog.github.io/GameAudioTable/
+<br>
+https://github.com/DaniKog/GameAudioTable
 <h2>Latest Build - v0.6</h2>
 https://docs.google.com/uc?id=0ByAWSt6YOwb0OHNTazdmX1NrbUE&export=download
 <br>
