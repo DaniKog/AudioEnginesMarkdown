@@ -1,4 +1,4 @@
-Old name of #GameAudioTable
+# Audio Engines Table #GameAudioTable
 A hub of information for developers to get audio engine related info and open source implementation code.
 <br>
 http://danikog.github.io/GameAudioTable/
